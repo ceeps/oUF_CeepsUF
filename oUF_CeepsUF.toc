@@ -1,0 +1,11 @@
+## Interface: 40000
+## Title: oUF CeepsUF
+## Author: Ceeps
+## Version: 0.2a
+## Notes: Ceeps Unit Frames. oUF layout
+## RequiredDeps: oUF
+## OptionalDeps: oUF_CombatFeedback,oUF_TotemBar
+## DefaultState: Enabled
+## LoadOnDemand: 0
+oUF_CeepsUF.lua
+castbar.lua
